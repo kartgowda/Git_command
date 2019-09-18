@@ -1,0 +1,7 @@
+ls
+cd --> " "
+git init
+git remote add origin --> url
+git add .
+git commit -m "Comments"
+git push origin master
